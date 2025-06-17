@@ -18,7 +18,7 @@
 ### Для Windows:
 1. Скачайте проект:
 
-   git clone https://github.com/MaxsimSA/money_movement_service
+   git clone https://github.com/MaxsimSA/money_movement_service.git
    cd dds_service
   
 2. Запустите автоматический установщик:
@@ -30,7 +30,7 @@
 ### Для Linux/MacOS:
 
 # Клонируйте репозиторий
-git clone https://github.com/MaxsimSA/money_movement_service
+git clone https://github.com/MaxsimSA/money_movement_service.git
 cd dds_service
 
 # Создайте виртуальное окружение
